@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: 1chiradev/demo-app:tagename
+          image: chiradev/demo-app:tagename
           ports:
             - containerPort: 5000
